@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: blue;
+}
+.main{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    background-color: white;
+    height: 90%;
+    width: 35%;
+    border-radius: 4px;
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.f1{
+    margin-top: 30px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(237, 237, 235);;
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#qr{
+    position: absolute;
+    left: 90px;
+    top: 85px;
+}
+
+.qr{
+    position: absolute;
+     left: 160px;
+    top: 85px;
+}
+
+
+.f2{
+    margin-top: 10px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(237, 237, 235);;
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#un{
+    position: absolute;
+    left: 90px;
+    top: 125px;
+}
+
+.un{
+    position: absolute;
+     left: 120px;
+     top: 125px;
+}
+
+
+.f3{
+    margin-top: 10px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(237, 237, 235);;
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#fb{
+    position: absolute;
+    left: 90px;
+    top: 165px;
+}
+
+.fb{
+    position: absolute;
+     left: 120px;
+     top: 165px;
+}
+
+.f4{
+    margin-top: 10px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(237, 237, 235);
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#google{
+    position: absolute;
+    left: 90px;
+    top: 205px;
+}
+
+.google{
+    position: absolute;
+     left: 130px;
+     top: 205px;
+}
+
+.f5{
+    margin-top: 10px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(237, 237, 235);;
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#twitter{
+    position: absolute;
+    left: 90px;
+    top: 245px;
+}
+
+.twitter{
+    position: absolute;
+     left: 140px;
+     top: 245px;
+}
+
+.f6{
+    margin-top: 10px;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color: rgb(237, 237, 235);
+    text-align: center;
+    border-radius: 4px;
+  
+}
+
+#apple{
+    position: absolute;
+    left: 90px;
+    top: 285px;
+}
+
+.apple{
+    position: absolute;
+     left: 145px;
+     top: 285px;
+}
+
+#hr1{
+    width: 27%;
+    margin-left: 80px;
+    position: absolute;
+    top: 66%;
+}
+
+#or{
+    margin-left: 196px;
+    font-size: small;
+    position: absolute;
+    top: 65%;
+    
+
+}
+
+#hr2{
+    width: 27%;
+    margin-left: 220px;
+    position: absolute;
+    top: 66%;
+}
+
+.text{
+    font-size: 10px;
+    position: absolute;
+    top: 78%;
+    width: 99%;
+    margin-left: 80px;
+  
+}
+
+
+.f7{
+    position: absolute;
+    top: 70%;
+    margin-left: 80px;
+    height:30px;
+    width: 240px;
+    background-color:  rgb(255, 44, 84);;
+    text-align: center;
+    border-radius: 4px;
+    color: aliceblue;
+
+}
+
+/* #hr3{
+    position: absolute;
+    top: 60%;
+} */
+
+
+.hr3{
+    width: 27%;
+    margin-left: 220px;
+    position: absolute;
+    top: 66%;
+
+}
+
+.last{
+    position: absolute;
+    top: 94%;
+    margin-left: 80px;
+    font-size: medium;
+   
+}
+
+
+.lasthr{
+    position: absolute;
+    top: -30%;
+    width: 182%;
+    right: -13%;
+    left: -37%;
+}
+
+.lasttext{
+    font-size: small;
+    margin-left: 120px;
+}
+
+span{
+    color: rgb(255, 44, 84);
+}
+
+#btn{
+    position: absolute;
+     left: 70px;
+     top: 7px;
+
+}
